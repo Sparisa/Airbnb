@@ -59,3 +59,7 @@ df.dtypes
 26654	113345	Waterfront Co	43.64530	-79.38940	Entire home 	125	21	40	2020-03-20	0.34	2	295
 
 
+```
+
+![Image of Yaktocat](https://github.com/Sparisa/Airbnb/roomtype.png)
+```
