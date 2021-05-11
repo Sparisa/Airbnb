@@ -61,5 +61,37 @@ df.dtypes
 
 ```
 
-![Image of Yaktocat](https://github.com/Sparisa/Airbnb/roomtype.png)
+![roomtype vs price](./images/roomvsprice.png)
 ```
+
+As expected, the price per night for entire property costs more and in the opposite, the shared rooms cost cheaper. Surprisingly, the hotels have the cheapest price among the other listing types. This can come form the fact that, Airbnb goal is accomadating travelors with any price point so the unheard and less famous hotels which have a cheaper pricing would more likely to post on Airbnb for attracting more customers by increasing the chance of being seen on Airbnb.
+ 
+
+```
+
+![neighbourhoud vs price](./images/neighbourhoodvsprice.png)
+```
+ The listings classified in three ctegories: high, medium and low pricing. The above plot is showing the three categories for pricing versus the locations. Also, the neighbourhood vs price is plotted for each category separatelt that can be found below. 
+ 
+ ```
+
+![neighbourhoud vs price](./images/lowprice.png)
+```
+```
+
+![neighbourhoud vs price](./images/MedPrice.png)
+```
+```
+
+![neighbourhoud vs price](./images/highprice.png)
+``` 
+```
+
+![neighbourhoud vs price](./images/categoryprice.png)
+``` 
+
+```
+
+![neighbourhoud vs price](./images/roomtypeprie.png)
+```
+Comparing the plots, it can be understood that the data points density is less in medium price category and there existed outliers for the high price category. From the data points distribution over the neighbourhoods, It can also true to say that you can find a place matching your budget in any part of the city you wish depending on the room type.
