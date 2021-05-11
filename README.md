@@ -95,3 +95,18 @@ As expected, the price per night for entire property costs more and in the oppos
 ![neighbourhoud vs price](./images/roomtypeprie.png)
 ```
 Comparing the plots, it can be understood that the data points density is less in medium price category and there existed outliers for the high price category. From the data points distribution over the neighbourhoods, It can also true to say that you can find a place matching your budget in any part of the city you wish depending on the room type.
+
+
+```
+
+![Lowest Pricing](./images/highest.png)
+```
+
+```
+
+![Highest Pricing](./images/cheapest.png)
+
+
+```
+
+The lowest and highest pricing in Airbnb Toronto listing can be found from the plots on the top. They show that the price per night can be as low as 11 CAD in Yonge-St. clair, while it goes up to 13000 CAD for the locations in Annex, Waterfron and Newtonbrook west.
