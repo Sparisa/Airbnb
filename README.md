@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 from numpy import nan
+from scipy.stats import norm
 
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder
@@ -110,3 +111,9 @@ Comparing the plots, it can be understood that the data points density is less i
 ```
 
 The lowest and highest pricing in Airbnb Toronto listing can be found from the plots on the top. They show that the price per night can be as low as 11 CAD in Yonge-St. clair, while it goes up to 13000 CAD for the locations in Annex, Waterfron and Newtonbrook west.
+```
+
+![Price Distribution](./images/pricedistribution.png)
+
+
+```
